@@ -31,7 +31,7 @@ cold-email-generator/
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/Abhiprameesh/COLD-MAIL-CRAFT.git
-cd cold-email-generator
+cd cold-mail-craft
 ```
 
 
